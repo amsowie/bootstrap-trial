@@ -1,0 +1,12 @@
+/*if element has all three of these classes, apply style*/
+.nav, .navbar, .navbar-default {
+
+    background-color: rgb(181, 255, 65);
+
+}
+
+/*If navbar brand in navbar default, make it this*/
+.navbar-default .navbar-brand {
+
+    color: white;
+}
